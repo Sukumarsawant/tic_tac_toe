@@ -1,8 +1,0 @@
-#ignore bin and lib 
-bin/
-lib/
-
-#ignore vscode setting folder 
-.vscode/
-#compiled java files is mistakenly 
-.class
