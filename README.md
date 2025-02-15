@@ -1,5 +1,5 @@
 
-### Use git clone https://github.com/Sukumarsawant/tic_tac_toe.git to clone this repo.
+Use `git clone https://github.com/Sukumarsawant/tic_tac_toe.git` to clone this repo.
 
 # tic_tac_toe
 
