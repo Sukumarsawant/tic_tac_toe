@@ -1,4 +1,6 @@
 # tic_tac_toe
+
+### Use git clone https://github.com/Sukumarsawant/tic_tac_toe.git to clone this repo.
 The game app only using JAVA 
 Some sneek-peeks:
 ![image](https://github.com/user-attachments/assets/0e538781-b079-47c1-8068-50fb94b48d4f)
